@@ -20,7 +20,8 @@ An AI-powered full-stack web application that allows users to upload or write co
 ## 📷 Screenshots
 
 ![image](https://github.com/user-attachments/assets/5bd72414-59bf-4fc4-8124-21d62e24debf)
-![image](https://github.com/user-attachments/assets/847cdf4d-decd-4d71-95cc-e10bb66fa6ba)
+![Screenshot 2025-04-21 225648](https://github.com/user-attachments/assets/31f579d0-a10a-4a92-bc7e-25c237952028)
+
 
 
 ## 🚀 Getting Started
